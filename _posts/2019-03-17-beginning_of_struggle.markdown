@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Beginning of Struggle"
-date:       2019-03-18 00:42:58 +0000
+date:       2019-03-17 20:42:58 -0400
 permalink:  beginning_of_struggle
 ---
 
