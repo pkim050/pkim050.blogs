@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Sequel to SQL"
-date:       2019-04-03 01:06:30 +0000
+date:       2019-04-02 21:06:31 -0400
 permalink:  the_sequel_to_sql
 ---
 
